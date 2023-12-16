@@ -1,0 +1,181 @@
+{
+   "checksum": "8f4eab627ec2efd0e88c95f03e72ad86",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13341783930000000",
+            "date_last_used": "13345517578398961",
+            "guid": "83ee726d-0ae7-4e5c-bec9-3b76f5de0b6b",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13341783930000000",
+            "date_last_used": "13347105331696607",
+            "guid": "e855a83f-5346-42ed-b3ab-583e133b819d",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13341783933000000",
+            "date_last_used": "0",
+            "guid": "297f5d95-33ea-41bd-8729-fe61ebdb0f3c",
+            "id": "8",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13342874215316741",
+            "date_last_used": "13345206906315131",
+            "guid": "cbae1b03-efa0-4b9e-946a-b1fe4265755b",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Python Cheat Sheet (2023) - GeeksforGeeks",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/python-cheat-sheet/?ref=lbp"
+         }, {
+            "date_added": "13342874794804364",
+            "date_last_used": "13345816190121224",
+            "guid": "ad0acd83-2d16-4438-bc72-c43c1d14120f",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "classroom",
+            "type": "url",
+            "url": "https://classroom.google.com/?pli=1"
+         }, {
+            "date_added": "13342878410676914",
+            "date_last_used": "13345506942498902",
+            "guid": "28883f8f-d727-4c75-8cf2-3c67c366f9b8",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Codeply v2",
+            "type": "url",
+            "url": "https://www.codeply.com/"
+         }, {
+            "date_added": "13342879138443940",
+            "date_last_used": "13345507484155481",
+            "guid": "7f7ee44f-f0a8-41fd-9b59-a9804014328a",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CodePen: Online Code Editor and Front End Web Developer Community",
+            "type": "url",
+            "url": "https://codepen.io/?cursor=ZD0xJm89MCZwPTEmdj03NjA4NQ=="
+         }, {
+            "date_added": "13343130518015700",
+            "date_last_used": "13347113423225077",
+            "guid": "3f931a12-6581-4851-bf51-84eebc32478f",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Emby",
+            "type": "url",
+            "url": "http://media.ftpbd.net:8096/web/index.html#!/item?id=686728&serverId=6aaad2ebfef9449f9d0c87f4f63ce181"
+         }, {
+            "date_added": "13343340810301484",
+            "date_last_used": "13344809115547479",
+            "guid": "b6c2b858-8b86-4be0-b870-0038b778861f",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "TryHackMe | Linux Fundamentals Part 1",
+            "type": "url",
+            "url": "https://tryhackme.com/room/linuxfundamentalspart1"
+         }, {
+            "date_added": "13343760798981772",
+            "date_last_used": "13344288889755576",
+            "guid": "d1b9178b-cfa0-42f6-a1eb-c0130338f32d",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OverTheWire: Level Goal: Bandit Level 0 → Level 1",
+            "type": "url",
+            "url": "https://overthewire.org/wargames/bandit/bandit1.html"
+         }, {
+            "date_added": "13344950582286661",
+            "date_last_used": "0",
+            "guid": "abda123c-cbd5-4c3f-8223-74019366e14b",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn Python - CodeChef",
+            "type": "url",
+            "url": "https://www.codechef.com/learn/course/python"
+         }, {
+            "date_added": "13345245638872362",
+            "date_last_used": "0",
+            "guid": "fd92b7a5-1545-4423-8d62-b66cd12f14bd",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Arduino Radar Kit | Arduino Project Kit",
+            "type": "url",
+            "url": "https://www.flyrobo.in/arduino-radar-kit-arduino-project-kit-2?tracking=5b853f18ae9a2"
+         }, {
+            "date_added": "13345405533123170",
+            "date_last_used": "0",
+            "guid": "f1dd5ef4-a8b4-40bc-9ddd-4dd89043d1c6",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Scientific Computing with Python Certification | freeCodeCamp.org",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/"
+         }, {
+            "date_added": "13345422923534305",
+            "date_last_used": "0",
+            "guid": "e1b7d1fa-b8b8-4fc5-a768-c2f5975a9628",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "main.py - OpenAI Python GPT 3.5 Turbo - Replit",
+            "type": "url",
+            "url": "https://replit.com/@minalhasan2/OpenAI-Python-GPT-35-Turbo#main.py"
+         } ],
+         "date_added": "13341909363045247",
+         "date_last_used": "0",
+         "date_modified": "13345422923534305",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13341909363045249",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13341909363045254",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
