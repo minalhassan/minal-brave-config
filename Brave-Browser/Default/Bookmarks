@@ -1,0 +1,48 @@
+{
+   "checksum": "88c2944d096ab3728ef11140cd9155b4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13347478202839357",
+         "date_last_used": "0",
+         "date_modified": "13347478210954465",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13345073595317525",
+            "date_last_used": "0",
+            "guid": "f9c6ee18-512f-4f7d-879d-7d57cf21ba08",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Snigdha OS",
+            "type": "url",
+            "url": "https://snigdhalinux.github.io/"
+         } ],
+         "date_added": "13347478202839369",
+         "date_last_used": "0",
+         "date_modified": "13345073595317525",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13347478202839372",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CuYBCsUBCIiBAhK+ASAAkgGzAQpqCg5jaHJvbWVfc3luY19ibRIFNTEhYm0aEgmR7Va+3wwGABGR7Va+3wwGACI0CT+pU77fDAYAEAMZ9O4xvKaNvfUgASocNTEhYm0vZmQ6OTE2MzcyMzU1OTQ2ODg5MzE2MSlPRFm+3wwGAApFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCYC9U7jfDAYAEYC9U7jfDAYAKcTSVr7fDAYAMID7zsL7m4MDugECCAESACoYU0IzRHBOUTFRZ1dTWE5vVURyYnZoZz09SAMSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp6Ym9NcnVPL3JhdmtVTXE0Zkdnc1RqTHJvVVF6YlFzTit6OW5hQ3Y5Z09ma1o0WWR5RDlFaVlxZVE4NkVVc3ovK2lYVmgvGAAgACgAML/SzvL7m4MDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS6wEIBRLmAQoccnhReXJWMjVYbStUL3B0eTBWQkdhTnhEN3prPRJmWjpBRHF0QVp6b0Ixa3F2aGdWclVJQjdZNGN6Yi9NUmZlWTZJRlJUUzIxVU14QmRRMk1DM2JCSXpHbmNGR01xdTJLNWNOeE9QTFN5RmpjZmtPRnhnQU03dDJqbEtXOHA3WFptUT09GAAgACgAMIKE0tj81YIDOLW3op2/MUC1t6KdvzFKHFNldVZQdUdMYzVnTTR0YUtLVHN0K2dnK21TUT1aHiIcZEU1ZmphVkJpa0tnczRUa1ZBczlFZFJYUnFZPWVLYQq7EsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeE9kbi9pUkthZ05pdDVxVFJoWFJzdEQxY1o1c0dPZWt1Nk5QblBxenQxNFRsYWFDZ25yendWS08yTVZERVdwbFY1MCtnS2xIZ1FGTVRvcko0M1NGNWJNUHcxRkE9PRgAIAAoADC/0s7y+5uDAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeUtjZE1aZVZpT0xkK04rQS9iNkRaYUFSSm1WY2pFTFkvYmd1bnovQnNjVFdRS1RHRVh1bU02VEdpSGdlL1FMcWxheHRWVHNQQzNFVkYxeFBma3JXVGsrV0NkSVE9PRgAIAAoADC/0s7y+5uDAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}
