@@ -9,7 +9,7 @@ pkgdesc="Snigdha OS Brave Config by minal hasan."
 arch=('any')
 license=("GPL")
 url="https://github.com/$org/$pkgname"
-depends=('brave-bin' 'gnome-keyring' 'profile-sync-daemon-brave')
+depends=('snigdha-nighttab-config' 'brave-bin' 'gnome-keyring' 'profile-sync-daemon-brave')
 source=("$pkgname.tar.gz"
         "psd.conf")
 sha512sums=('SKIP'
